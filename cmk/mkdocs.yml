@@ -1,3 +1,10 @@
 site_name: study hard
+site_author: scictor
+site_dir: site
 theme:
      name: 'material'
+site_favicon: images/favicon.ico
+# 版权信息
+copyright: Copyright &copy; 2010 ~ now scictor@gmail.com
+
+

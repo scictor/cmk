@@ -1,7 +1,7 @@
 # Welcome to MkDocs
 
 ## study hard
-c.md
+c.md.
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
