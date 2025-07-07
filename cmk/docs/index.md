@@ -1,6 +1,6 @@
 # Welcome to MkDocs
 
-## study hard
+## work hard
 c.md.
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
